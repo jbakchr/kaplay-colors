@@ -1,6 +1,6 @@
 {
   "name": "kaplay-colors",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Export of main colours used by KAPLAY",
   "main": "index.js",
   "repository": {
