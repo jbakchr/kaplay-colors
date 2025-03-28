@@ -1,12 +1,8 @@
-![WIP](https://img.shields.io/badge/status-WIP-yellow)
-<br>_🚧 This package is a work in progress! 🚧_  
-_Expect breaking changes and incomplete features._
-
-# KAPLAY Kolors
+# KAPLAY Kolors 🦖🎨
 
 Use the colors used on the [KAPLAY](https://kaplayjs.com/) website.
 
-## Installation
+## Installation 📦
 
 You can install Kaplay Kolors via npm:
 
@@ -14,7 +10,7 @@ You can install Kaplay Kolors via npm:
 npm install kaplay-colors
 ```
 
-## Kolors
+## Kolors 🎨
 
 The possible kolors are:
 
@@ -27,7 +23,7 @@ The possible kolors are:
 | `YELLOW` | The yellow color used for some header texts and as button outline         |
 | `WHITE`  | The white color used for some header texts                                |
 
-## Usage
+## Usage 🧑‍🎨
 
 This package just exports and object with the above mentioned kolors.
 
@@ -44,11 +40,11 @@ kaplay();
 add([rect(200, 100), color(Kolor.PURPLE)]);
 ```
 
-## License
+## License 🪪
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
+## Contact 📇
 
 Have questions or suggestions? Reach out via:
 
